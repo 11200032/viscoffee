@@ -5,7 +5,7 @@ body {
 li {
   list-style: none;
   font-size:19px;
-  float: right;
+  float: left;
   padding: 40px 50px;
   color: #bba187;
 }
