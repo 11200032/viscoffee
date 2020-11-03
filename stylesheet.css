@@ -5,9 +5,9 @@ body {
 li {
   list-style: none;
   font-size:19px;
-  float: left;
+  float: right;
   padding: 40px 50px;
-  color: #bba187;
+  color: #FFFAFA;
 }
 
 .header {
