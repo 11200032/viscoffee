@@ -27,12 +27,6 @@ li {
   height: 1080px;
 }
 
-.footer {
-  background-color: #ebd4b4;
-  height: 270px;
-  color: #000000;
-}
-
 .contents {
   height: 500px;
   padding-top: 50px;
@@ -43,4 +37,10 @@ li {
   border-bottom: 2px solid #AF6B58;
   Padding-bottom: 15px;
   margin-bottom: 50px;
+}
+
+.footer {
+  background-color: #ebd4b4;
+  height: 270px;
+  color: #000000;
 }
