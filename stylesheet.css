@@ -31,6 +31,7 @@ li {
   height: 500px;
   padding-top: 50px;
   background-color: #CBBCB1;
+  text-align: center;
 }
 
 .section-title {
@@ -43,4 +44,5 @@ li {
   background-color: #ebd4b4;
   height: 270px;
   color: #000000;
+  text-align: center;
 }
